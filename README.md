@@ -5,20 +5,20 @@
   Hi, I'm <strong>Suriyaprakash A</strong>
 </h1>
 
-<h3>MERN Stack Developer | Full Stack Developer | JavaScript Developer</h3>
+<h3>PLM Developer (Teamcenter) | MERN Stack Developer | Full Stack Developer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    Passionate MERN Stack Developer with hands-on experience building full-stack web applications.<br/>
+    PLM Developer working with Siemens Teamcenter, with hands-on experience building full-stack web applications on the side.<br/>
     I love crafting clean UIs, scalable APIs, and intuitive digital experiences using modern web technologies.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_Tamil_Nadu,_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:suriyaprakashanbuseliyan@gmail.com"><img src="https://img.shields.io/badge/📧_suriyaprakashanbuseliyan@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼_PLM_Developer_@_Foclen_Software-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🎓_B.Sc_CS_@_MKU_2026-1e1e2e?style=for-the-badge" />
   </p>
 
@@ -40,6 +40,17 @@
 </div>
 
 <br clear="all" />
+
+---
+
+## 💼 Professional Experience
+
+### PLM Developer | Foclen Software
+> Siemens Teamcenter · PLM Configuration · Workflow Design
+
+- Working on **Teamcenter PLM** implementation and support, helping streamline product data management workflows.
+- Involved in Teamcenter configuration, customization, and troubleshooting to support engineering and business processes.
+- Collaborating with cross-functional teams to ensure smooth data migration, workflow automation, and system integration within the PLM environment.
 
 ---
 
@@ -68,6 +79,14 @@
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h3>🏭 PLM & Enterprise Tools</h3>
+<img src="https://img.shields.io/badge/Siemens_Teamcenter-009999?style=for-the-badge&logo=siemens&logoColor=white" />
+<img src="https://img.shields.io/badge/PLM-Product_Lifecycle_Management-4B0082?style=for-the-badge" />
 <br/><br/>
 </td>
 </tr>
@@ -105,9 +124,9 @@
 
 ## 🏅 Certifications
 
-- 🎓 **Full Stack Web Development — MERN Stack** | 
-- 🎓 **Python Basics** | 
-- 🎓 **C & C++ Programming** | 
+- 🎓 **Full Stack Web Development — MERN Stack** | AlphaFly Computer Education, Theni.
+- 🎓 **Python Basics**
+- 🎓 **C & C++ Programming**
 
 ---
 
